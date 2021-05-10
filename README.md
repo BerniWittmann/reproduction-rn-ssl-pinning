@@ -34,4 +34,4 @@ Now when sending the same file with the RN SSL Pinning library, the request is b
 
 You can see the flow in the video below
 
-<video src="https://i.imgur.com/BKAKxCw.mp4" autoplay width=500 />
+![](https://i.imgur.com/BKAKxCw.mp4)
